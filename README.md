@@ -4,7 +4,7 @@
 🔭 I’m currently exploring new ideas and experimenting with code<br>👯 I’m looking to collaborate on interesting open-source<br>🤝 I’m looking for help with improving building better systems<br>🌱 I’m currently learning<br>- Data structures & algorithms<br>- Competitive programming<br>- Building better AI / web projects<br>⚡ Fun fact<br>I enjoy turning random ideas into real projects.
 
 
-## 🌐 Socials:
+## 🌐 Socials (Connect here):
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-garg-043637343) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adiiigarg16@gmail.com) 
 
 ## 💻 Tech Stack:
