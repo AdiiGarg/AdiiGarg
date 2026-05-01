@@ -1,59 +1,73 @@
 <h1 align="center">Hi, I'm Aditya Garg</h1>
 
-<h3 align="center">
-I enjoy turning random ideas into real projects
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&lines=Developing+Web+Projects;Learing+ML;Building+Real+Projects" />
+</p>
 
 <p align="center">
-⚡Looking to collaborate on interesting open-source 
+⚡ Open to collaborating on impactful open-source projects
 </p>
 
 ---
 
 ## About Me
 
-- B.Tech CSE @ JIIT (2024–2028)  
-- **Exploring new ideas and experimenting with code**  
-- Building **- AI / web projects**  
-- **I’m currently learning**
+- 🎓 B.Tech CSE @ JIIT (2024–2028)  
+- Building **AI + Web applications**  
+- Focused on building systems that solve real-world problems
+- Currently learning **DSA, ML, and System Design**
+
+---
+
+## Top Featured Projects
+
+### ⚡ CheetCode (AI LeetCode Assistant)
+- AI-powered tool to analyze problems and detect patterns  
+- Helps improve problem-solving speed and accuracy  
+- Built using **TypeScript + modern UI**
+- Repo: https://github.com/AdiiGarg/CheetCode
+
+### 🎬 Netflix Talks (Web App)
+- Interactive UI with dynamic content and clean design  
+- Focus on frontend experience and responsiveness  
+- Built using **JavaScript**
+- 🔗 Repo: https://github.com/AdiiGarg/Netflix-Talks
+
+### 🤖 Clippy.ai (Chrome Extension)
+- Lightweight productivity assistant  
+- Designed for quick actions and minimal friction  
+- Built with **JavaScript + browser APIs**
+- Repo: https://github.com/AdiiGarg/Clippy.ai
 
 ---
 
 ## Tech Stack
 
-**Languages:**
+**Languages:**  
 `Python` `C++` `C`
 
-**Web Technologies:**
-`HTML` `CSS` `JS` `AIML`
+**Web & AI:**  
+`HTML` `CSS` `JavaScript` `Machine Learning`
 
-**Tools:**
-`Git` `Github` `VS Code` `Vercel` `Figma`
+**Tools:**  
+`Git` `GitHub` `VS Code` `Vercel` `Figma`
 
-
---- 
+---
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdiiGarg&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=AdiiGarg&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AdiiGarg&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://streak-stats.demolab.com?user=AdiiGarg&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
+
 
 ---
 
-<h2>Most Used Languages</h2>
+## Let's Connect
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdiiGarg&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-<h2 align="center">Let's Connect</h2>
-
-<p align="center">
-  <a href="[https://www.linkedin.com/in/aditya-garg-043637343]">
+  <a href="https://www.linkedin.com/in/aditya-garg-043637343">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   
