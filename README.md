@@ -19,28 +19,6 @@
 
 ---
 
-## Top Featured Projects
-
-### ⚡ CheetCode (AI LeetCode Assistant)
-- AI-powered tool to analyze problems and detect patterns  
-- Helps improve problem-solving speed and accuracy  
-- Built using **TypeScript + modern UI**
-- Repo: https://github.com/AdiiGarg/CheetCode
-
-### 🎬 Netflix Talks (Web App)
-- Interactive UI with dynamic content and clean design  
-- Focus on frontend experience and responsiveness  
-- Built using **JavaScript**
-- 🔗 Repo: https://github.com/AdiiGarg/Netflix-Talks
-
-### 🤖 Clippy.ai (Chrome Extension)
-- Lightweight productivity assistant  
-- Designed for quick actions and minimal friction  
-- Built with **JavaScript + browser APIs**
-- Repo: https://github.com/AdiiGarg/Clippy.ai
-
----
-
 ## Tech Stack
 
 **Languages:**  
