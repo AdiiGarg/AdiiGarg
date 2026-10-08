@@ -15,7 +15,7 @@
 - 🎓 B.Tech CSE @ JIIT (2024–2028)  
 - Building **AI + Web applications**  
 - Focused on building systems that solve real-world problems
-- Currently learning **DSA, ML, and System Design**
+- Currently learning **DSA, ML, and CSE Core**
 
 ---
 
